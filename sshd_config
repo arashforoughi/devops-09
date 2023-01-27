@@ -30,7 +30,6 @@ Include /etc/ssh/sshd_config.d/*.conf
 #LoginGraceTime 2m
 #PermitRootLogin prohibit-password
 StrictModes no
-#MaxAuthTries 6
 #MaxSessions 10
 
 
